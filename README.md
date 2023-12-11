@@ -34,7 +34,8 @@ Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/gozdecerenyildiz)](https://github.com/gozdecerenyildiz) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@gozdecerenyildiz)](https://medium.com/@gozdecerenyildiz) 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/gözde-ceren-yıldız)](www.linkedin.com/in/gözde-ceren-yıldız)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/gözde-ceren-yıldız
+)](www.linkedin.com/in/gözde-ceren-yıldız)
 
 
 <h3 align="left">Languages and Tools:</h3>
