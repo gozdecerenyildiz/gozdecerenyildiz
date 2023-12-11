@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Connect with me:
+### Connect with me:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/gozdecerenyildiz)](https://github.com/gozdecerenyildiz) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=https://medium.com/@gozdecerenyildiz)](https://medium.com/@gozdecerenyildiz) 
